@@ -11,5 +11,5 @@ linux için:
 code .`
 # Contributing
 pull requestler kabul edilir.Büyük değişikler için,lütfen Önce neyi değiştirmek istediğinizi tartışmak içim bir konu açınız
-#License
+# License
 [MIT](https://choosealicense.com/licenses/mit/)
