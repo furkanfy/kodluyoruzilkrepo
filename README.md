@@ -3,4 +3,4 @@ bu repo kodluyoruz()Font-end eğitimde oluşturduğumuz ilk repo içersinde bir 
 ![alt text](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
 # Installation
 öncelikle projeyi clonelayın (burayı reponuxu aldığınız link içerecek)
-`https://github.com/furkanfy/kodluyoruzilkrepo.git
+`https://github.com/furkanfy/kodluyoruzilkrepo.git`
