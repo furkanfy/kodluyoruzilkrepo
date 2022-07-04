@@ -4,12 +4,12 @@ bu repo kodluyoruz()Font-end eğitimde oluşturduğumuz ilk repo içersinde bir 
 # Installation
 öncelikle projeyi clonelayın (burayı reponuxu aldığınız link içerecek)
 `git clone https://github.com/furkanfy/kodluyoruzilkrepo.git`
-#Usage
+# Usage
 Projeyi cloneladıktan sonra visual Studio code programinda açınız.
 linux için:
 `cd kodluyoruzilrepo
 code .`
-#Contributing
+# Contributing
 pull requestler kabul edilir.Büyük değişikler için,lütfen Önce neyi değiştirmek istediğinizi tartışmak içim bir konu açınız
 #License
 [MIT](https://choosealicense.com/licenses/mit/)
