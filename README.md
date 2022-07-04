@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 bu repo [kodluyoruz](https://www.kodluyoruz.org/)Font-end eğitimde oluşturduğumuz ilk repo içersinde bir adet README.md dosyası bir adet de index.html barındarmaktadır.
-![alt text](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
+![image](https://user-images.githubusercontent.com/43148229/177201346-bc75c89b-92fc-4fe7-9ccf-16eaf2a5a982.png)
 # Installation
 öncelikle projeyi clonelayın (burayı reponuxu aldığınız link içerecek)
 `git clone https://github.com/furkanfy/kodluyoruzilkrepo.git`
